@@ -1,1 +1,1 @@
-# LGM-vip
+Calculator using HTML,CSS and JAVASCRIPT
